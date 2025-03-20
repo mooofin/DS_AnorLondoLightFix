@@ -37,8 +37,10 @@ This project focuses on **fixing broken light sources, improving ambient lightin
 
 ---
 
-## **📷 Before & After Screenshots**
-*(Insert comparison images here for visual reference)*
+
+
+## ** In development 
+![image](https://github.com/user-attachments/assets/9c3c710d-8212-46bb-81d8-8bc93fca5490)
 
 ---
 
