@@ -69,7 +69,7 @@ This project focuses on **fixing broken light sources, improving ambient lightin
 ### **3. FPS drops significantly in Anor Londo.**
 ✔ Lower shadow settings in-game.
 ✔ Disable heavy ReShade effects.
-✔ Use the "Performance Mode" version of the mod (available in downloads).
+✔ Use the "Performance Mode" version of the mod (in development ).
 
 ### **4. Cheat Table is not working.**
 ✔ Make sure **Cheat Engine** is installed and running.
@@ -96,8 +96,7 @@ This project focuses on **fixing broken light sources, improving ambient lightin
 ## **📧 Support & Feedback**
 Have questions or suggestions? Feel free to:
 - Open an issue in the [GitHub Issues](#) section.
-- Join our **Discord community** *(link if available)*.
-- Reach out via [Email](mailto:youremail@example.com).
+
 
 Enjoy the **true majesty of Anor Londo** with enhanced lighting! 🌞🏰
 
