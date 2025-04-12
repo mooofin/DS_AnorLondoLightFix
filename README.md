@@ -1,4 +1,4 @@
-Here’s the revised version of your **Anor Londo Lighting Fix** mod description without emojis and with a more professional tone:
+
 
 ---
 
@@ -14,13 +14,21 @@ This project focuses on fixing broken light sources, improving ambient lighting,
 
 ## **Features**
 
-- **Restored Dynamic Lighting** – Fixes missing or broken light sources.  
-- **Enhanced Shadows and Depth** – Improved shadow casting for a realistic environment.  
-- **Rebalanced Brightness and Contrast** – Eliminates washed-out visuals and improves tonal balance.  
-- **More Realistic Ambient Occlusion** – Adds depth and subtle shading to the environment.  
-- **Performance Optimized** – Tested for stable frame rates with no major performance impact.  
-- **Compatible with Texture and Gameplay Mods** – Works seamlessly with graphical enhancements and gameplay changes.  
-- **Includes Cheat Table** – Optional Cheat Engine table for gameplay customization.
+- **Restored Dynamic Lighting** – Fixes missing or broken light sources  
+- **Enhanced Shadows and Depth** – Improved shadow casting for a realistic environment  
+- **Rebalanced Brightness and Contrast** – Eliminates washed-out visuals and improves tonal balance  
+- **More Realistic Ambient Occlusion** – Adds depth and subtle shading to the environment  
+- **Performance Optimized** – Tested for stable frame rates with no major performance impact  
+- **Compatible with Texture and Gameplay Mods** – Works seamlessly with graphical enhancements and gameplay changes  
+- **Includes Cheat Table** – Optional Cheat Engine table for gameplay customization  
+
+---
+
+## **Screenshot – Work in Progress**
+
+![Anor Londo Map Editor Preview](/mnt/data/image.png)
+
+This image shows the interior of the Dark Souls map editor with Anor Londo’s light sources and object placements clearly visualized. The ongoing improvements reflect the mod’s goal to bring the city’s lighting back to its intended aesthetic.
 
 ---
 
@@ -35,68 +43,65 @@ This project focuses on fixing broken light sources, improving ambient lighting,
 
 ### **Installation Steps**
 
-1. Download the latest version of *Anor Londo Lighting Fix* from the [Releases](#) page.
-2. Extract the files using 7-Zip or WinRAR.
+1. Download the latest version of *Anor Londo Lighting Fix* from the [Releases](#) page.  
+2. Extract the files using 7-Zip or WinRAR.  
 3. Copy the mod files into your *Dark Souls* directory:
-   - **PTDE:** Place the files in `DATA\dsfix\tex_override` (requires DSFix).
-   - **DSR:** Place the files in `DARK SOULS REMASTERED\mods` (requires Mod Engine).
-4. *(Optional)* To use the Cheat Table, open Cheat Engine, load the `.CT` file, and attach it to `DarkSouls.exe`.
-5. Launch the game and enjoy the enhanced lighting.
+   - **PTDE:** `DATA\dsfix\tex_override` (requires DSFix)  
+   - **DSR:** `DARK SOULS REMASTERED\mods` (requires Mod Engine)  
+4. *(Optional)* Open the `.CT` file in Cheat Engine and attach it to `DarkSouls.exe`.  
+5. Launch the game and enjoy the enhanced lighting.  
 
 ---
 
 ## **Compatibility**
 
-- Compatible with **DSFix** (PTDE users must enable texture override)
-- Works with **ReShade and ENB**
-- Supports **texture mods** (e.g., Anor Londo HD Retexture)
-- Cheat Table is standalone and does not interfere with lighting
-- Not compatible with other lighting overhaul mods affecting Anor Londo
+- Compatible with **DSFix**, **ReShade**, **ENB**
+- Works alongside **texture mods** (e.g., Anor Londo HD Retexture)
+- Not compatible with other lighting overhauls for Anor Londo
+- Cheat Table is independent and does not conflict with lighting changes  
 
 ---
 
 ## **Troubleshooting**
 
-### **1. The mod isn't working (no visible changes):**
-- Ensure the files are installed in the correct directory.
-- For PTDE, make sure texture override is enabled in `dsfix.ini` (`enableTextureOverride 1`).
-- For DSR, ensure Mod Engine is correctly configured.
-- Clear the shader cache (`Documents\NBGI\DarkSouls\shadercache`) and restart the game.
+### **The mod isn't working (no changes):**
+- Check if files are in the correct directory  
+- Make sure DSFix texture override is enabled (`enableTextureOverride 1` in `dsfix.ini`)  
+- Clear shader cache (`Documents\NBGI\DarkSouls\shadercache`)  
 
-### **2. The game crashes on startup:**
-- Remove any conflicting mods.
-- If using ReShade or ENB, test with and without the mod.
-- Verify game files through Steam to rule out file corruption.
+### **The game crashes on launch:**
+- Try disabling conflicting mods  
+- Test with and without ReShade  
+- Verify game integrity via Steam  
 
-### **3. Significant FPS drops in Anor Londo:**
-- Lower in-game shadow settings.
-- Disable demanding ReShade effects.
-- Use the upcoming "Performance Mode" version of the mod.
+### **Performance issues:**
+- Reduce in-game shadow settings  
+- Disable heavy ReShade filters  
+- A "Performance Mode" version is in development  
 
-### **4. Cheat Table is not working:**
-- Ensure Cheat Engine is properly installed and running.
-- Open the `.CT` file after launching Dark Souls.
-- Confirm Cheat Engine is attached to the correct process (`DarkSouls.exe`).
-- Run Cheat Engine as Administrator if necessary.
+### **Cheat Table issues:**
+- Run Cheat Engine as Administrator  
+- Ensure you attach it to the correct process  
+- Open the `.CT` file *after* launching the game  
 
 ---
 
 ## **Changelog**
 
-### **v1.1 - Added Cheat Table**
-- Introduced optional Cheat Engine table for additional customization.
+### **v1.1 - Cheat Table Added**
+- Optional Cheat Engine support for gameplay customization  
 
 ### **v1.0 - Initial Release**
-- Fixed broken or missing light sources in Anor Londo.
-- Improved shadow casting for greater depth.
-- Adjusted ambient occlusion for more realistic lighting.
-- Optimized for consistent performance.
-
-*Future updates may include further refinements and expanded compatibility.*
+- Reworked Anor Londo lighting  
+- Improved shadows and ambient occlusion  
+- Performance tested for stable gameplay  
 
 ---
 
 ## **Support and Feedback**
 
-For questions, bug reports, or suggestions, please open an issue in the [GitHub Issues](#) section.
+For help, bugs, or suggestions, open an issue on the [GitHub Issues](#) page.
 
+--- 
+
+Let me know if you’d like a version in Markdown format or for NexusMods/ModDB styling.
