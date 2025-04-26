@@ -26,6 +26,12 @@ This project focuses on fixing broken light sources, improving ambient lighting,
 
 ## **Screenshot – Work in Progress**
 ![image](https://github.com/user-attachments/assets/dec66388-10d6-46f9-9990-472a99c7d5b1)
+![image](https://github.com/user-attachments/assets/d7454083-42d7-4710-bdfa-0fdcac6099ce)
+
+![image](https://github.com/user-attachments/assets/c9356448-89dd-4b62-950f-73bc4bc7190a)
+
+
+
 
 
 This image shows the interior of the Dark Souls map editor with Anor Londo’s light sources and object placements clearly visualized. The ongoing improvements reflect the mod’s goal to bring the city’s lighting back to its intended aesthetic.
