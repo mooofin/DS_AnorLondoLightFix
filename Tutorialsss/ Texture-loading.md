@@ -1,3 +1,7 @@
+Of course. Here is the previous guide with the links for Yabber and FLVER Editor added as footnotes.
+
+-----
+
 ### **How to Get Object Textures to Load in Any Map (DS1)**
 
 #### **So, What's the Big Idea?**
@@ -10,15 +14,15 @@ This guide will show you how to fix that. We’re going to "teach" an object to 
 
 Before we dive in, make sure you have these tools ready to go. They're essential for any serious Dark Souls modding.
 
-  * **Yabber:** Your go-to tool for unpacking and repacking the game's archive files.
-  * **FLVER Editor:** This lets you look at the 3D models and, more importantly for us, see what textures they use.
+  * **Yabber¹:** Your go-to tool for unpacking and repacking the game's archive files.
+  * **FLVER Editor²:** This lets you look at the 3D models and, more importantly for us, see what textures they use.
   * **An Unpacked Game:** You'll need a full copy of the game's files unpacked into a folder.
 
 -----
 
-### **The Walkthrough**
 
-#### **Step 1: The Detective Work - Finding the Texture Clues**
+
+####  Finding the Texture Clues**
 
 First, we need to figure out exactly which textures our object uses.
 
@@ -34,7 +38,7 @@ First, we need to figure out exactly which textures our object uses.
 
 6.  **Rinse and Repeat:** You'll need to do this for *every single material* in the list to make sure you have a complete list of all the textures the object needs. It can be a bit tedious, but it's crucial\!
 
-#### **Step 2: The Heist - Grabbing the Textures**
+####  Grabbing the Textures**
 
 Now that we know what we're looking for, it's time to go get it.
 
@@ -44,7 +48,7 @@ Now that we know what we're looking for, it's time to go get it.
 
 3.  **Find Your Targets:** Sift through the folders Yabber just created. You're looking for the `.tpf` files with the same names you wrote down. Once you find them, unpack each of those `.tpf` files with Yabber, too. This will finally give you the raw `.dds` texture file and a little `.xml` file that goes with it.
 
-#### **Step 3: The Assembly - Building a Custom Texture Pack**
+####  Building a Custom Texture Pack**
 
 Okay, you should now have a bunch of little folders, each containing a `.dds` file and an `.xml`. Let's bundle them all up into one neat package.
 
@@ -133,3 +137,10 @@ We're in the home stretch\! All that's left is to tell the object to use our new
 5.  **Victory\!** Take your new, modified `.objbnd` file, drop it into your mod's `obj` folder, and boot up the game. Go ahead and place your object in a completely different map. It should now show up perfectly, with all its textures intact.
 
 Happy modding\!
+
+-----
+
+**Footnotes**
+
+¹ Yabber: [https://github.com/JKAnderson/Yabber](https://github.com/JKAnderson/Yabber)  
+² FLVER Editor: [https://github.com/Pear0533/FLVER\_Editor](https://github.com/Pear0533/FLVER_Editor)
