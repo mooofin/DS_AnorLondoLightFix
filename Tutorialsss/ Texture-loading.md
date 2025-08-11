@@ -1,7 +1,3 @@
-Of course. Here is the previous guide with the links for Yabber and FLVER Editor added as footnotes.
-
------
-
 ### **How to Get Object Textures to Load in Any Map (DS1)**
 
 #### **So, What's the Big Idea?**
